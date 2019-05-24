@@ -16,7 +16,7 @@ export class ProfileComponent implements OnInit {
    }
 
   ngOnInit() {
-    this.profile = new Profile(1, 'Abby', 'Bardin', 'USA', 'MMS', '', 'consultant', new Date('10 27, 1981'))
+    this.profile = new Profile(1, 'Abby', 'Bardin', 'abbybardin@mail.mail', 'USA', 'MMS', '', 'consultant', new Date('10 27, 1981'))
   }
 
 }

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { Profile } from './profile/profile.model';
-import { ProfileComponent } from './profile.profile.component';
+import { ProfileComponent } from './profile/profile.component';
 
 @Component({
   selector: 'app-root',
