@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 import { Profile } from './profile/profile.model';
 import { ProfileComponent } from './profile/profile.component';
+import { SubscriptionsComponent } from './subscriptions/subscriptions.component';
 
 @Component({
   selector: 'app-root',
