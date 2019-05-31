@@ -1,14 +1,14 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { ProfileComponent } from './profile.component'
+import { EmailsComponent } from './emails.component'
 
 const routes: Routes = [
-  { path: 'myaccount', component: ProfileComponent }
+  { path: 'myaccount/emails', component: EmailsComponent }
 ];
 
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
-export class ProfileRoutingModule { }
+export class EmailsRoutingModule { }

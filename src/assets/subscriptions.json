@@ -1,0 +1,16 @@
+[
+  {
+    "customerID": 12345,
+    "name": "New England Journal of Medicine",
+    "type": "active",
+    "term": "one year",
+    "renewalType": "auto renew"
+  },
+  {
+    "customerID": 12345,
+    "name": "NEJM Catalyst",
+    "type": "active",
+    "term": "one year",
+    "renewalType": "auto renew"
+  }
+]
